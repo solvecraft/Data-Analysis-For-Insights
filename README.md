@@ -17,6 +17,8 @@ Budget-Conscious Segment: Comprising customers with lower incomes, focused on va
 The full report, detailing the methodology, results, and business recommendations, is available as a PDF document.
 
 Download the Full Report
+[Data Visulization.pdf](https://github.com/user-attachments/files/17482282/Data.Visulization.pdf)
+
 
 Technologies Used
 Python: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
